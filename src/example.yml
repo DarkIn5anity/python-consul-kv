@@ -1,0 +1,12 @@
+---
+demo_location:
+  common:
+    settings:
+      cluster: demo_cluster
+      cluster_dns: demo.example.com
+
+  demo_data:
+    demo_dict:
+      name: apache
+
+

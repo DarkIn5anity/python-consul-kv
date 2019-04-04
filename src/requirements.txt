@@ -1,0 +1,6 @@
+consul-kv==0.7.3
+jmespath==0.9.4
+pyasn1==0.4.5
+pycurl==7.43.0.2
+python-consul==1.1.0
+PyYAML==3.13
